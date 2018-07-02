@@ -1,0 +1,10 @@
+C:\Users\kcrun\OneDrive\Documents\GitHub\KCKCNA\src\KCKCNA.Data\obj\Debug\KCKCNA.Data.csproj.CoreCompileInputs.cache
+C:\Users\kcrun\OneDrive\Documents\GitHub\KCKCNA\src\KCKCNA.Data\bin\Debug\KCKCNA.Data.dll.config
+C:\Users\kcrun\OneDrive\Documents\GitHub\KCKCNA\src\KCKCNA.Data\bin\Debug\KCKCNA.Data.dll
+C:\Users\kcrun\OneDrive\Documents\GitHub\KCKCNA\src\KCKCNA.Data\bin\Debug\KCKCNA.Data.pdb
+C:\Users\kcrun\OneDrive\Documents\GitHub\KCKCNA\src\KCKCNA.Data\bin\Debug\EntityFramework.dll
+C:\Users\kcrun\OneDrive\Documents\GitHub\KCKCNA\src\KCKCNA.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kcrun\OneDrive\Documents\GitHub\KCKCNA\src\KCKCNA.Data\bin\Debug\EntityFramework.xml
+C:\Users\kcrun\OneDrive\Documents\GitHub\KCKCNA\src\KCKCNA.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kcrun\OneDrive\Documents\GitHub\KCKCNA\src\KCKCNA.Data\obj\Debug\KCKCNA.Data.dll
+C:\Users\kcrun\OneDrive\Documents\GitHub\KCKCNA\src\KCKCNA.Data\obj\Debug\KCKCNA.Data.pdb

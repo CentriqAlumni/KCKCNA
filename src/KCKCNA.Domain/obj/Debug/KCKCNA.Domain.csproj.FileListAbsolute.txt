@@ -1,0 +1,5 @@
+C:\Users\kcrun\OneDrive\Documents\GitHub\KCKCNA\src\KCKCNA.Domain\bin\Debug\KCKCNA.Domain.dll
+C:\Users\kcrun\OneDrive\Documents\GitHub\KCKCNA\src\KCKCNA.Domain\bin\Debug\KCKCNA.Domain.pdb
+C:\Users\kcrun\OneDrive\Documents\GitHub\KCKCNA\src\KCKCNA.Domain\obj\Debug\KCKCNA.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kcrun\OneDrive\Documents\GitHub\KCKCNA\src\KCKCNA.Domain\obj\Debug\KCKCNA.Domain.dll
+C:\Users\kcrun\OneDrive\Documents\GitHub\KCKCNA\src\KCKCNA.Domain\obj\Debug\KCKCNA.Domain.pdb

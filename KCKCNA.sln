@@ -1,10 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KCKCNA.Web", "src\KCKCNA.Web\KCKCNA.Web.csproj", "{F7255FE7-0685-4D6A-97C8-54FF56BD75CE}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KCKCNA.Data", "src\KCKCNA.Data\KCKCNA.Data.csproj", "{17706804-D3E9-4169-A95B-CAF8AA08844F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KCKCNA.Domain", "src\KCKCNA.Domain\KCKCNA.Domain.csproj", "{E19C692C-6025-4C47-99FF-CD8513EC28B1}"
@@ -17,10 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F7255FE7-0685-4D6A-97C8-54FF56BD75CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F7255FE7-0685-4D6A-97C8-54FF56BD75CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F7255FE7-0685-4D6A-97C8-54FF56BD75CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F7255FE7-0685-4D6A-97C8-54FF56BD75CE}.Release|Any CPU.Build.0 = Release|Any CPU
 		{17706804-D3E9-4169-A95B-CAF8AA08844F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{17706804-D3E9-4169-A95B-CAF8AA08844F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17706804-D3E9-4169-A95B-CAF8AA08844F}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -36,5 +30,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B747A94-EAFE-4E49-BB3B-55581E4EF533}
 	EndGlobalSection
 EndGlobal
