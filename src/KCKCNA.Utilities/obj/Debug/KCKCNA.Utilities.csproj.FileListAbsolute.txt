@@ -5,7 +5,6 @@ C:\Users\kcrun\OneDrive\Documents\GitHub\KCKCNA\src\KCKCNA.Utilities\obj\Debug\K
 C:\Users\kcrun\OneDrive\Documents\GitHub\KCKCNA\src\KCKCNA.Utilities\obj\Debug\KCKCNA.Utilities.pdb
 E:\Centriq\BoostNetwork\KCKCNA\src\KCKCNA.Utilities\bin\Debug\KCKCNA.Utilities.dll
 E:\Centriq\BoostNetwork\KCKCNA\src\KCKCNA.Utilities\bin\Debug\KCKCNA.Utilities.pdb
-E:\Centriq\BoostNetwork\KCKCNA\src\KCKCNA.Utilities\obj\Debug\KCKCNA.Utilities.csprojResolveAssemblyReference.cache
 E:\Centriq\BoostNetwork\KCKCNA\src\KCKCNA.Utilities\obj\Debug\KCKCNA.Utilities.csproj.CoreCompileInputs.cache
 E:\Centriq\BoostNetwork\KCKCNA\src\KCKCNA.Utilities\obj\Debug\KCKCNA.Utilities.dll
 E:\Centriq\BoostNetwork\KCKCNA\src\KCKCNA.Utilities\obj\Debug\KCKCNA.Utilities.pdb
