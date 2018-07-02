@@ -8,3 +8,14 @@ C:\Users\kcrun\OneDrive\Documents\GitHub\KCKCNA\src\KCKCNA.Data\bin\Debug\Entity
 C:\Users\kcrun\OneDrive\Documents\GitHub\KCKCNA\src\KCKCNA.Data\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\kcrun\OneDrive\Documents\GitHub\KCKCNA\src\KCKCNA.Data\obj\Debug\KCKCNA.Data.dll
 C:\Users\kcrun\OneDrive\Documents\GitHub\KCKCNA\src\KCKCNA.Data\obj\Debug\KCKCNA.Data.pdb
+E:\Centriq\BoostNetwork\KCKCNA\src\KCKCNA.Data\bin\Debug\KCKCNA.Data.dll.config
+E:\Centriq\BoostNetwork\KCKCNA\src\KCKCNA.Data\bin\Debug\KCKCNA.Data.dll
+E:\Centriq\BoostNetwork\KCKCNA\src\KCKCNA.Data\bin\Debug\KCKCNA.Data.pdb
+E:\Centriq\BoostNetwork\KCKCNA\src\KCKCNA.Data\bin\Debug\EntityFramework.dll
+E:\Centriq\BoostNetwork\KCKCNA\src\KCKCNA.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Centriq\BoostNetwork\KCKCNA\src\KCKCNA.Data\bin\Debug\EntityFramework.xml
+E:\Centriq\BoostNetwork\KCKCNA\src\KCKCNA.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Centriq\BoostNetwork\KCKCNA\src\KCKCNA.Data\obj\Debug\KCKCNA.Data.csprojResolveAssemblyReference.cache
+E:\Centriq\BoostNetwork\KCKCNA\src\KCKCNA.Data\obj\Debug\KCKCNA.Data.csproj.CoreCompileInputs.cache
+E:\Centriq\BoostNetwork\KCKCNA\src\KCKCNA.Data\obj\Debug\KCKCNA.Data.dll
+E:\Centriq\BoostNetwork\KCKCNA\src\KCKCNA.Data\obj\Debug\KCKCNA.Data.pdb
